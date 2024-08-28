@@ -112,6 +112,7 @@
     max-width: 300px;
     margin-right: -15px;
     opacity: 0;
+    border-radius: 10px;
     animation: zoomIn 1s ease forwards, floatImage 4s ease-in-out infinite;
     animation-delay: 2s, 3s;
     ;
